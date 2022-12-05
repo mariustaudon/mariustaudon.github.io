@@ -1,0 +1,25 @@
+body {
+    background-color: #1e1e23;
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+}
+header h1{
+    text-decoration: underline;
+}
+header a {
+    margin: 100px;
+    color: whitesmoke;
+}
+.contenu p {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 75px;
+}
+.contenu a {
+    margin-top: 30px;
+    color: whitesmoke;
+    text-decoration: none;
+}
