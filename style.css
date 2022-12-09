@@ -36,9 +36,6 @@ header h1 {
 .contenu {
     margin-left: 100px;
 }
-.contenu a, .contenu p {
-    margin-left: 50px;
-}
 .presentation {
     padding-top: 100px;
     width: 800px;
